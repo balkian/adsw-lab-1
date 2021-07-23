@@ -1,4 +1,4 @@
-name: Crear enunciados 
+name: Advanced Usage
 
 on: push
 
@@ -7,6 +7,9 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
+      - name: create output directory
+        id: create_output
+        run: mkdir output
       - uses: docker://pandoc/latex:2.9
         with:
           args: --output=output/enunciado.pdf enunciado.md
