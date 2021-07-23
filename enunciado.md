@@ -25,7 +25,7 @@ clase incluye un método *main* con una prueba básica de funcionamiento
 (*smoke test*[^1]). También se proporciona una batería de pruebas
 configurada con *JUnit* 4, con varios casos de prueba definidos.
 
-![](e72c0ca8e3dd589437869e69b62c4083ed7b849d.png){width="5.139583333333333in"
+![](media/e72c0ca8e3dd589437869e69b62c4083ed7b849d.png){width="5.139583333333333in"
 height="2.4069444444444446in"}
 
 En el proyecto se incluyan las siguientes clases:
@@ -100,7 +100,7 @@ modelo de clases):
 -   *Prueba_ListaDoblementeEnlazada*: Ejecución de una lista.
 
 ![Diagrama Descripción generada
-automáticamente](eb49cd9069827dea003421981a29759bee0eb78b.jpg){width="3.997659667541557in"
+automáticamente](media/eb49cd9069827dea003421981a29759bee0eb78b.jpg){width="3.997659667541557in"
 height="4.031999125109361in"}
 
 En la siguiente figura se muestra un ejemplo de la ejecución.
@@ -127,7 +127,7 @@ Al añadir un nuevo valor hay que hacer que:
 
 Las operaciones del método *quita* se comportan de forma análoga.
 
-![](42bc8f4a7615346381f1c81bfe6e9a705ea630a1.png){width="5.486111111111111in"
+![](media/42bc8f4a7615346381f1c81bfe6e9a705ea630a1.png){width="5.486111111111111in"
 height="5.794697069116361in"}
 
 El código proporcionado tiene errores. Para poder corregir los problemas
@@ -170,7 +170,7 @@ En este ejercicio, se propone desarrollar el siguiente método de la
 clase *ListaDoblementeEnlazada*:
 
 ![Imagen que contiene captura de pantalla Descripción generada
-automáticamente](ab71a7ed2415c141b4e8ca0f7bc41c91a201debc.png){width="5.140150918635171in"
+automáticamente](media/ab71a7ed2415c141b4e8ca0f7bc41c91a201debc.png){width="5.140150918635171in"
 height="1.803105861767279in"}
 
 Use las técnicas propuestas en este enunciado para comprobar si el
@@ -271,9 +271,9 @@ Las herramientas disponibles para el control de la ejecución son varias:
         ejecutada
     -   Vista de vigilancia de expresiones
 
-![Macintosh HD:Users:monica:Desktop:Screen Shot 2015-01-20 at 15.53.21.png](ecd3e692f647cf2dd90eeb77b96bd8890a8b2fe3.png){width="5.275761154855643in" height="3.034994531933508in"}
+![Pantallazo de eclipse](media/ecd3e692f647cf2dd90eeb77b96bd8890a8b2fe3.png){width="5.275761154855643in" height="3.034994531933508in"}
 
-![](1edf57ae5e86d28f44fdc7798dda87349248a4a6.png){width="4.872222222222222in"
+![](media/1edf57ae5e86d28f44fdc7798dda87349248a4a6.png){width="4.872222222222222in"
     height="1.925in"}
     
 -    **Control de la ejecución** paso a paso, entrando
