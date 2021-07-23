@@ -12,8 +12,8 @@ jobs:
         run: mkdir output
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --output=enunciado.pdf enunciado.md
+          args: --output=output/enunciado.pdf enunciado.md
       - uses: actions/upload-artifact@master
         with:
-          name: enunciado.pdf
-          path: enunciado.pdf
+          name: output
+          path: output
